@@ -1,5 +1,5 @@
 ## Material
-- [Genomgång (repetera) av css positionering](https://www.youtube.com/watch?v=UO8ed-JB4So
+- [Genomgång (repetera) av css positionering](https://www.youtube.com/watch?v=UO8ed-JB4So)
 
 ## Övningar
 1. [Celebrity site](exercises/exercise_celebrate.md)
